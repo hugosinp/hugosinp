@@ -1,7 +1,7 @@
 ### Hi there, I'm hugosinp 👋
 
 About me 🚀 :
-- 🔭 I’m currently working as a Full-Stack developer contributing to both front-end and back-end side on web applications
+- 🔭 I’m currently working as a Software Engineer contributing to both front-end and back-end side on web applications
 - 🌱 I’m currently learning Blockchain dev (ethers.js & Solidity)
 
 
