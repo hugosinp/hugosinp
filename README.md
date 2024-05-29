@@ -7,11 +7,10 @@ About me 🚀 :
 
 Languages & tools 🛠️ :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 &nbsp;
@@ -28,15 +27,14 @@ Languages & tools 🛠️ :
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 &nbsp;
-</div>
 
-<p><strong>Check out my last AWS certifications ! 🎉</strong></p>
+<strong>Check out my last AWS certifications ! 🎉</strong>
 
 <div>
-    <a href="https://www.credly.com/badges/037aa72c-4b84-4a7c-b44f-62b85d385ba6/public_url">
+    <a style="text-decoration: none" href="https://www.credly.com/badges/037aa72c-4b84-4a7c-b44f-62b85d385ba6/public_url">
         <img src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-developer-associate.png" title="AWS Certified Developer Associate" alt="AWS Certified Developer Associate" width="100" height="100"/>
     </a>
-    <a href="https://www.credly.com/badges/94a9ab49-3788-40d0-9dc3-fd2d2785c676/public_url">
+    <a style="text-decoration: none" href="https://www.credly.com/badges/94a9ab49-3788-40d0-9dc3-fd2d2785c676/public_url">
         <img src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-cloud-practitioner.png" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100" height="100"/>&nbsp;
     </a>
 </div>
