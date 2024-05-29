@@ -7,6 +7,7 @@ About me 🚀 :
 
 Languages & tools 🛠️ :
 
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -14,6 +15,7 @@ Languages & tools 🛠️ :
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>
 &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
@@ -33,7 +35,7 @@ Languages & tools 🛠️ :
 &nbsp;
 </div>
 
-<strong>Check out my last AWS certifications ! 🎉</strong>
+### Check out my last AWS certifications ! 🎉
 
 <div>
     <a style="text-underline: none" href="https://www.credly.com/badges/037aa72c-4b84-4a7c-b44f-62b85d385ba6/public_url">
