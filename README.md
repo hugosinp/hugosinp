@@ -44,7 +44,7 @@ Languages & tools 🛠️ :
         <img style="text-decoration: none" src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-developer-associate.png" title="AWS Certified Developer Associate" alt="AWS Certified Developer Associate" width="100" height="100"/>
     </a>
     <a style="text-decoration: none" target="_blank" href="https://www.credly.com/badges/94a9ab49-3788-40d0-9dc3-fd2d2785c676/public_url">
-        <img style="text-decoration: none" src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-cloud-practitioner.png" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100" height="100"/>&nbsp;
+        <img style="text-decoration: none" src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-cloud-practitioner.png" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100" height="100"/>
     </a>
 </div>
 
