@@ -39,13 +39,13 @@ Languages & tools 🛠️ :
 
 ### Check out my last AWS certifications ! 🎉
 
-<div style="text-decoration: none">
-    <a style="text-decoration: none" target="_blank" href="https://www.credly.com/badges/037aa72c-4b84-4a7c-b44f-62b85d385ba6/public_url">
-        <img style="text-decoration: none" src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-developer-associate.png" title="AWS Certified Developer Associate" alt="AWS Certified Developer Associate" width="100" height="100"/>
-    </a>
-    <a style="text-decoration: none" target="_blank" href="https://www.credly.com/badges/94a9ab49-3788-40d0-9dc3-fd2d2785c676/public_url">
-        <img style="text-decoration: none" src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-cloud-practitioner.png" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100" height="100"/>
-    </a>
+<div>
+<a target="_blank" href="https://www.credly.com/badges/037aa72c-4b84-4a7c-b44f-62b85d385ba6/public_url">
+<img src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-developer-associate.png" title="AWS Certified Developer Associate" alt="AWS Certified Developer Associate" width="100" height="100"/>
+</a>
+<a target="_blank" href="https://www.credly.com/badges/94a9ab49-3788-40d0-9dc3-fd2d2785c676/public_url">
+<img src="https://sinp-public-bucket.s3.eu-west-3.amazonaws.com/logos/aws-certified-cloud-practitioner.png" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" width="100" height="100"/>
+</a>
 </div>
 
 ---
